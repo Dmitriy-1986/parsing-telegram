@@ -1,11 +1,11 @@
 from telethon import TelegramClient
 
-# Замените на ваш api_id и api_hash
-api_id = 21002229
-api_hash = 'ef86b3d8721805538b11a9ce26626c91'
+# Api_id и api_hash
+api_id = *****
+api_hash = '*****'
 
-# Замените на ваш номер телефона
-phone_number = '+380936925010'
+# Номер телефона
+phone_number = '*****'
 
 # Username канала/группы
 group_username = -1001784427002 
