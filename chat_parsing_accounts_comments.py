@@ -5,8 +5,8 @@ from telethon.sync import TelegramClient
 """
 
 # API_ID и API_HASH
-API_ID = 21002229
-API_HASH = 'ef86b3d8721805538b11a9ce26626c91'
+API_ID = *****
+API_HASH = '*****'
 
 GROUP_USERNAME = -1001760516098 
 
