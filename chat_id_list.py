@@ -1,8 +1,8 @@
 from telethon import TelegramClient
 
-api_id = 21002229
-api_hash = 'ef86b3d8721805538b11a9ce26626c91'
-phone_number = '+380936925010'  # Телефон с + в начале
+api_id = *****
+api_hash = '*****'
+phone_number = '*****'  # Телефон с + в начале
 
 async def main():
     client = TelegramClient('session_name', api_id, api_hash)
